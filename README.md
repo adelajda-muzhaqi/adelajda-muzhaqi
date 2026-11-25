@@ -1,4 +1,5 @@
-## Hi there 👋
+<p align="center"><img src="chip.gif" width="100%" /></p>
+<p align="center"><img src="journey.gif" width="100%" /></p>
 
 <!--
 **adelajda-muzhaqi/adelajda-muzhaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
